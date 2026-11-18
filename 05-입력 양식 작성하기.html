@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>입력 양식 작성하기</title>
+  </head>
+  <body>
+    <form>
+      <fieldset>
+        <legend>상품 선택</legend>
+      </fieldset>
+
+      <fieldset>
+        <legend>배송 정보</legend>
+        <label for="info">배송정보 입력하기</label>
+        <input type="text" id="info" autofocus />
+
+        <label for="mail">이메일 입력</label>
+        <input type="email" id="mail" placeholder="user@example.com" required />
+
+        <label for="pw">비밀번호 입력</label>
+        <input
+          type="password"
+          id="pw"
+          placeholder="영문숫자 포함 8자리 이상"
+          required
+        />
+      </fieldset>
+
+      <fieldset>
+        <legend>상품 선택</legend>
+        <p>주문할 상품을 선택해 주세요.</p>
+
+        <label><input type="checkbox" value="s-1" checked />상품-1</label>
+        <input type="number" min="1" value="1" max="5" />개 (최대 5개)
+
+        <label><input type="checkbox" value="s-2" />상품-2</label>
+        <input type="range" min="1" value="1" max="5" step="0.5" />개 (최대 5개)
+
+        <label><input type="checkbox" value="s-3" />상품-3</label>
+        <label><input type="checkbox" value="s-4" />상품-4</label>
+        <label><input type="checkbox" value="s-5" />상품-5</label>
+      </fieldset>
+
+      <fieldset>
+        <legend>포장 선택</legend>
+
+        <label><input type="radio" name="gift" value="bag" />쇼핑백</label>
+        <label>
+          <input type="radio" name="gift" value="present" />선물 포장
+        </label>
+        <label>
+          <input type="radio" name="gift" value="default" checked />기본
+        </label>
+      </fieldset>
+
+      <fieldset>
+        <legend>날짜 입력</legend>
+
+        <input type="date" />
+        <input type="month" />
+        <input type="week" />
+
+        <input type="time" />
+        <input type="datetime" />
+        <input type="datetime-local" />
+
+        <input type="file" />
+        <input type="button" value="버튼" />
+        <input type="submit" />
+      </fieldset>
+
+      <fieldset>
+        <legend>여러 줄 입력</legend>
+        <textarea cols="40" rows="6"></textarea>
+      </fieldset>
+
+      <fieldset>
+        <legend>드롭다운 목록</legend>
+        <label for="prod">상품 선택</label>
+        <select id="prod">
+          <option value="v-1">선택-1</option>
+          <option value="v-2" selected>선택-2</option>
+          <option value="v-3">선택-3</option>
+          <option value="v-4">선택-4</option>
+        </select>
+
+        <button type="button">버튼</button>
+        <button type="submit">제출</button>
+        <button type="reset">폼 내용 초기화</button>
+      </fieldset>
+    </form>
+  </body>
+</html>

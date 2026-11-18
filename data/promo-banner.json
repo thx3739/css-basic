@@ -1,0 +1,52 @@
+[
+  {
+    "link": "https://korean.visitkorea.or.kr/other/otherService.do?otdid=ac9dcc21-c015-4732-a10c-1cafc80aab65",
+    "backgroundColor": "#F7F4EF",
+    "title": "여행상품 최대 30% 할인! 지역관광 부스터",
+    "titleColor": "#FF3109",
+    "description": "여행상품 할인 받고 선착순 선물까지⭐<br>주유권 5만원, 네이버페이 포인트 2만원 증정!",
+    "descriptionColor": "#000000",
+    "imageLeft": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9511a370-d55d-481f-9a60-1fb87940c8cc&mode=progress",
+    "imageRight": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a415048e-0a9d-4eaa-8a94-6576a51da1bc&mode=progress"
+  },
+  {
+    "link": "https://korean.visitkorea.or.kr/dgtourcard/tour50.do",
+    "backgroundColor": "#FFC53D",
+    "title": "국내여행, 반값으로 떠날 기회🍁",
+    "titleColor": "#000000",
+    "description": "지역사랑 휴가지원 사업<br>올가을 9개 지역 신규 추가!",
+    "descriptionColor": "#000000",
+    "imageLeft": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6603e06e-e8da-4b0c-a5f5-84cb99c8e085&mode=progress",
+    "imageRight": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b0f05e34-69eb-4c76-8c9c-e5ff07091727&mode=progress"
+  },
+  {
+    "link": "https://korean.visitkorea.or.kr/detail/event_detail.do?cotid=080c091c-edf8-47c0-8153-3ec66a40a83b",
+    "backgroundColor": "#26B7BC",
+    "title": "유쾌한 참견쟁이 모집",
+    "titleColor": "#FFFFFF",
+    "description": "관광을 바꾸는 유쾌한 한마디",
+    "descriptionColor": "#FFFFFF",
+    "imageLeft": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=763966c9-d06c-401c-b191-e17f82f38874&mode=progress",
+    "imageRight": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=cf7a6cc0-f469-4223-9952-afdba51d1b27&mode=progress"
+  },
+  {
+    "link": "https://korean.visitkorea.or.kr/detail/event_detail.do?cotid=d0b40806-8125-4785-b17e-c22ca51c0a4e",
+    "backgroundColor": "#FFD489",
+    "title": "대한민국 명소발굴 100x100 프로젝트<br>프로방랑러의 도장깨기 가을편",
+    "titleColor": "#000000",
+    "description": "우리나라 명소 다녀오고 경품 받아가세요!<br>이벤트 일정: 2026.10.1.~10.30.",
+    "descriptionColor": "#000000",
+    "imageLeft": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e7afd6de-e1c6-46e7-af91-538ad2c9f281&mode=progress",
+    "imageRight": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ffa23823-8e8a-40b0-9317-6f0d1fc1afe9&mode=progress"
+  },
+  {
+    "link": "https://korean.visitkorea.or.kr/detail/event_detail.do?cotid=03478402-7f66-4bdc-99a1-8a4a1bbaa22a",
+    "backgroundColor": "#3EB8FF",
+    "title": "대한민국 명소발굴 100x100 프로젝트<br>‘웃픈’ 여행사진 콘테스트",
+    "titleColor": "#000000",
+    "description": "나만의 ‘웃픈’ 사진 자랑하고 경품 받아가세요!<br>이벤트 일정: 2026.10.1.~10.30.",
+    "descriptionColor": "#000000",
+    "imageLeft": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2f322a99-3e6c-435b-8dc0-71b142730d1c&mode=progress",
+    "imageRight": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=aa116080-0b07-430a-8220-47270dec919a&mode=progress"
+  }
+]
